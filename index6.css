@@ -1,0 +1,24 @@
+body{
+    background-color: chartreuse;
+}
+
+div{
+    text-align: center;
+    border-bottom-width: 150px;
+    border-left-width: 350px;
+    border-right-width: 350px;
+    border-top-width: 150px;
+    border-style: solid;
+    border-color: azure;
+}
+h1{
+    color: chocolate;
+    font-weight: bold;
+    font-family: cursive;
+}
+li{
+    color: chocolate;
+}
+h2{
+    color: chocolate;
+}
